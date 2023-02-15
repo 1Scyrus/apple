@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Apple</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<nav>
+			<ul>
+				<li><a href="#">Menu item 1</a></li>
+				<li><a href="#">Menu item 2</a></li>
+				<li><a href="#">Menu item 3</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section>
+			<h1>Welcome to Apple</h1>
+			<p>Discover the latest Apple products and accessories</p>
+			<button>Shop now</button>
+		</section>
+		<section>
+			<h2>Popular Products</h2>
+			<ul>
+				<li>
+					<img src="product1.jpg" alt="Product 1">
+					<h3>Product 1</h3>
+					<p>Description of product 1</p>
+					<button>Add to cart</button>
+				</li>
+				<li>
+					<img src="product2.jpg" alt="Product 2">
+					<h3>Product 2</h3>
+					<p>Description of product 2</p>
+					<button>Add to cart</button>
+				</li>
+				<li>
+					<img src="product3.jpg" alt="Product 3">
+					<h3>Product 3</h3>
+					<p>Description of product 3</p>
+					<button>Add to cart</button>
+				</li>
+			</ul>
+		</section>
+	</main>
+	<footer>
+		<p>&copy; 2023 Apple Inc. All rights reserved.</p>
+	</footer>
+</body>
+</html>
